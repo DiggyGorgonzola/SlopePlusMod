@@ -10,4 +10,4 @@ Download both Slope++.dll and SPPAssets.zip. Put the .dll file in your melon loa
 # Changes
 
 - The quit game button now goes to the main menu instead of closing the application
-- Added 1 secret seed
+- Added 5 secret seeds
